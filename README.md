@@ -26,7 +26,7 @@ PGLife is a **PHP & MySQL-based** web application that helps students and profes
 
 ### **1️⃣ Clone the Repository**
 ```sh
-https://github.com/Sachin2501/PGLife_with-_react.git
+git clone https://github.com/Sachin2501/PGLife_with-_react.git
 ```
 ---
 2️⃣ Setup MySQL Database
